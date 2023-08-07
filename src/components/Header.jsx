@@ -1,6 +1,6 @@
 export default function Header(){
     return(
-        <div className="shadow-md border p-5 rounded-b-2xl mx-2 shadow-lg">
+        <div className="border p-5 rounded-b-2xl mx-2 shadow-lg">
             <h1 className=" text-center font-semibold mb-2 text-2xl">Domain Private Capital</h1>
             <div className="flex justify-center items-center">
                 <svg xmlns="http://www.w3.org/2000/svg" width="265" height="2" viewBox="0 0 314 2" fill="none">

@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import {Login} from "./components/Login"
 import {Register} from "./components/Register";
 import {forgetPassword} from "./components/ForgetPassword";
+import Demo from "./components/Demo";
 export default function App() {
   const [currentForm, setCurrentForm] = useState('login');
   
@@ -11,6 +12,9 @@ export default function App() {
   }
 
   return (
+    // <>
+    // <Demo />  
+    //   </>
     <>
     <Header />
     {

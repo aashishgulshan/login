@@ -45,7 +45,7 @@ export const Login = (props) => {
                 />   
             </div>
 
-            <div className='flex flex wrap -mx-3 mx-3 md:mt-10 justify-between'>
+            <div className='flex flex-wrap -mx-3  md:mt-10 justify-between'>
                 <div className="form-group mb-6 md:mb-0">
                     <button type="submit" className="py-3 px-8 text-white rounded-3xl font-bold bg-sky-500">Log In</button>
                 </div>
